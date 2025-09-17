@@ -1,0 +1,7 @@
+name = "RLAOpInf"
+uuid = "87de30fd-0b8f-422f-9fbb-b2b1aa9e86d2"
+authors = ["Vivak Patel <vp314@users.noreply.github.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.11.7"
