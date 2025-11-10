@@ -3,5 +3,8 @@ uuid = "87de30fd-0b8f-422f-9fbb-b2b1aa9e86d2"
 authors = ["Vivak Patel <vp314@users.noreply.github.com>"]
 version = "0.1.0"
 
+[deps]
+RLinearAlgebra = "da1d211a-c3bc-43b2-b5d0-ce83f16a0f3a"
+
 [compat]
 julia = "1.11.7"
